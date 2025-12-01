@@ -1,0 +1,21 @@
+# Core data handling and utilities
+pandas
+numpy
+scikit-learn
+scipy
+
+# Visualization and plotting
+matplotlib
+seaborn
+
+# Hugging Face ecosystem for Transformers and datasets
+datasets
+transformers
+accelerate
+peft
+
+# Core ML framework
+torch
+
+# For Jupyter Notebook support
+ipykernel
