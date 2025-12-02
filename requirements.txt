@@ -19,3 +19,7 @@ torch
 
 # For Jupyter Notebook support
 ipykernel
+
+lime
+
+shap
